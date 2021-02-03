@@ -1,6 +1,6 @@
 /* Custom CSS goes here */
 body {
-    max-width: 600px;
+    max-width: 500px;
     margin: auto;
     background-color: #7ac684;
     font-family: 'Poppins', sans-serif;
@@ -37,7 +37,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     justify-content: center;
-    
+
     padding-left: 5rem;
     padding-right: 5rem;
     text-align: justify;
@@ -222,26 +222,45 @@ body {
 
 /*Keyframes*/
 @keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
+    0% {
+        opacity: 0;
     }
-    @-moz-keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
+    100% {
+        opacity: 1;
     }
-        
-    @-webkit-keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
+}
+@-moz-keyframes fadeIn {
+    0% {
+        opacity: 0;
     }
-    
-    @-o-keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
+    100% {
+        opacity: 1;
     }
-    
-    @-ms-keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
 }
 
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-o-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-ms-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
