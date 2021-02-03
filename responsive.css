@@ -1,7 +1,7 @@
 @media(max-width: 550px) {
     body {
         margin: 0;
-        width: 80%;
+        width: 100% !important;
     }
 
     .logo-left {
