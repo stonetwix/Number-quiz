@@ -4,9 +4,9 @@ Hi and welcome to Crack the Number! You will guess a number from 1 to 20. When y
 
 [Play the quiz here!](https://crackthenumber.netlify.app/)
 
-Created by: [Malin,](https://github.com/msmalinosterberg)
+Created by: [Moa](https://github.com/stonetwix/)
+[Malin,](https://github.com/msmalinosterberg)
 [Mikaela,](https://github.com/MikaelaAnd)
 [Tony,](https://github.com/TonyMartinsson)
 [Oliver,](https://github.com/Browbeans)
-[Moa](https://github.com/stonetwix/)
 
