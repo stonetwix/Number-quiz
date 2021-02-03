@@ -1,4 +1,4 @@
-@media (max-width: 550px) {
+@media(max-width: 600px) {
     body {
         margin: 0;
         width: 100%;
@@ -13,7 +13,7 @@
         height: 7rem;
         margin: 0;
     }
-    
+
     .instructions {
         display: flex;
         justify-content: center;
@@ -34,8 +34,8 @@
         margin: 0;
         color: white;
     }
-    
-    .instructions h1{
+
+    .instructions h1 {
         display: flex;
         justify-content: center;
         position: fixed;
@@ -64,7 +64,7 @@
         right: 0;
         top: 32%;
     }
-    
+
     .startButton {
         background-color: #ffce82;
         text-transform: uppercase;
@@ -116,7 +116,7 @@
     }
 }
 
-@media (max-width: 450px) {
+@media(max-width: 450px) {
     .instructions {
         top: 65%;
         width: 100%;
